@@ -2,7 +2,14 @@
 Collections and ideas for the chip challenge
 
 # Challenge - Ideen:
-## Open-Source FPGA
+## Security: Access system - Door key
+#### Vorgaben:   
+- Pin definitions
+#### Ziele:
+
+
+## Innovation: Open-Source FPGA
+#### Description:
 #### Vorgaben:
 - Pin definitions
 - Memory external?
@@ -11,12 +18,8 @@ Collections and ideas for the chip challenge
 - Minimum 4 LUTs
 - Kann Fibonacci Folge bis 100
 
-## Tür System - Öffner
-#### Vorgaben:   
-- Pin definitions
-#### Ziele:
 
-## LED Ansteuerung
+## Timing: LED Panel Controller
 #### Vorgaben:
 - Pin definitions
 - LED Panel mit fixer Grösse
@@ -27,7 +30,7 @@ Collections and ideas for the chip challenge
 - Buffet/ Interlaced?
 - Codec integriert?
 
-## Audio Eurorack
+## Transfer topic: Audio Eurorack
 #### Vorgaben:   
 - Pin definitions
 - Pmod Apeflaudio?
@@ -37,9 +40,14 @@ Collections and ideas for the chip challenge
 #### Vorgaben:   
 #### Ziele:
 
-# Challenge - Bewertungskriterien:
-## Allgemein (Jede Challenge)
+# Challenge - Judging criterias:
+## Commons
+- Documentation
 
-## Challenge spezifisch (wechselnd)
+## Challenge specific
++ Goal matching
 
-## Bonuspubkte
+
+| Criteria | Category   |  Weight   |
+|------|------|------|
+|
